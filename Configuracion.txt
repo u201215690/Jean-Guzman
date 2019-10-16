@@ -1,0 +1,9 @@
+Archivo de Configuracion: C:\wamp64\www\codBase\server\conex.php  
+
+$host = '127.0.0.1';
+        
+$dbname = 'bd_agenda';
+        
+$userdb = 'root';
+       
+$passdb = '123456';
